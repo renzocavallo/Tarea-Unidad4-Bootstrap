@@ -1,0 +1,50 @@
+body{
+    background:floralwhite
+}
+
+.container-fluid{
+background: white;
+    
+}
+
+.container-fluid{
+    background:rgb(30, 126, 30);
+}
+
+.btn-outline-success{
+    background:rgb(30, 126, 30); 
+    border:rgb(30, 126, 30);
+    color: white;
+}
+.btn-outline-success:hover{
+    background:black;
+}
+.pagination{
+    display: flex;
+    justify-content: center;
+}
+
+.accordion-button{
+    background: rgb(30, 126, 30);
+}
+
+.accordion-collapse{
+    background:rgb(30, 126, 30) ;
+    color : white;
+
+}
+
+
+.container{
+    margin-top: 25px;
+}
+
+.btn-dark{
+    margin-top: 10px;
+}
+
+.page-link{
+    border: floralwhite;
+    background: floralwhite;
+    color: rgb(30, 126, 30);
+}
